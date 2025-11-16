@@ -1,5 +1,5 @@
 /**
- * Embaixadores de Cristo E.B.C - Sistema Principal CORRIGIDO
+ * Embaixadores de Cristo E.B.C - Sistema Principal
  * Ministério Musical Gospel Angolano
  * @version 3.1.0
  * @author José Mbenga da Costa
@@ -98,8 +98,6 @@ class EmbaixadoresMinisterio {
       this.handleError(error);
     }
   }
-
-  
 
   /**
    * Event Listeners Básicos
@@ -406,7 +404,7 @@ class EmbaixadoresMinisterio {
   }
 
   /**
-   * Sistema de Contato - CORRIGIDO
+   * Sistema de Contato 
    */
   initializeContactSystem() {
     this.initializeContactForm();
